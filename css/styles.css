@@ -118,9 +118,14 @@ body {
   cursor: pointer;
   height: 50px;
   width: 250px;
+  margin: 2rem 0;
 }
 
 .informacion {
+  margin: 2rem 0;
+}
+
+.titulo-informacion {
   color: #495057;
   font-size: 1rem;
   margin-bottom: 1rem;
