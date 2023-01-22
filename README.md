@@ -33,3 +33,6 @@ Algunos ejemplos del proceso de encriptación y desencriptación son :
   mairimespobersai" => "mariposa"
 - "hola mundo" => "hoberlai mufatndober"
   hoberlai mufatndober" => "hola mundo"
+
+
+![image](https://user-images.githubusercontent.com/72312430/213942548-fa2e8bcc-65cc-4466-8ba7-859c39ac313c.png)
