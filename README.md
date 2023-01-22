@@ -6,6 +6,11 @@
 
 El primer reto de Oracle Next Education en alianza con Alura Latam consistene en desarrollar una aplicación que permita la encriptación y desencriptación de textos permitiendo el intercambio de mensajes secretos con personas que conozcan la encriptación utilizada o con ayuda de la aplicación.
 
+Tecnogías utilizadas:
+- HTML
+- CSS
+- JavaScript
+
 Las "llaves" de encriptación que se implementan el la aplicación son las siguientes:
 
 - La letra "e" es convertida para "enter"
